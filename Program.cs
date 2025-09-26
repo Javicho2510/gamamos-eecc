@@ -14,16 +14,23 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// ✅ Permitir CORS desde React (ajusta IP si cambias de PC)
+// ✅ CORS para pruebas (puedes cambiar AllowAnyOrigin por tu dominio)
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp",
         policy =>
         {
-            policy.WithOrigins("http://192.168.100.19:3000")
+            policy.AllowAnyOrigin()
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
+});
+
+// 🔧 Detecta el puerto asignado por Render (usa 5000 por defecto)
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(int.Parse(port));
 });
 
 var app = builder.Build();
@@ -31,17 +38,15 @@ var app = builder.Build();
 // ✅ Aplica la política de CORS aquí
 app.UseCors("AllowReactApp");
 
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// 📌 Activa Swagger siempre
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
 // Si no usas HTTPS, deja comentado:
-/// app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
