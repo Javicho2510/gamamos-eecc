@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sWbzYANbztg2Tdb4QNEGmDx+WlVrXEcvErIumWiMJ64=",
+  "Source": "EstadoCuentaApi",
+  "BasePath": "_content/EstadoCuentaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
