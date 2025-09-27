@@ -167,3 +167,14 @@ D:\mis-proyectos\estado-cuenta-web\estadocuentaapi\obj\Release\net8.0\refint\Est
 D:\mis-proyectos\estado-cuenta-web\estadocuentaapi\obj\Release\net8.0\EstadoCuentaApi.pdb
 D:\mis-proyectos\estado-cuenta-web\estadocuentaapi\obj\Release\net8.0\EstadoCuentaApi.genruntimeconfig.cache
 D:\mis-proyectos\estado-cuenta-web\estadocuentaapi\obj\Release\net8.0\ref\EstadoCuentaApi.dll
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\obj\Release\net8.0\EstadoCuentaApi.sourcelink.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\web.config
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\appsettings.Development.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\appsettings.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\EstadoCuentaApi.deps.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\EstadoCuentaApi.runtimeconfig.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\out\web.config
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\out\appsettings.Development.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\out\appsettings.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\out\EstadoCuentaApi.deps.json
+D:\mis-proyectos\estado-cuenta-web\EstadoCuentaApi\bin\Release\net8.0\out\out\EstadoCuentaApi.runtimeconfig.json

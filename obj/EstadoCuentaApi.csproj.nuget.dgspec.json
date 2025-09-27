@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mis-proyectos\\estado-cuenta-web\\estadocuentaapi\\EstadoCuentaApi.csproj": {}
+    "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\EstadoCuentaApi.csproj": {}
   },
   "projects": {
-    "D:\\mis-proyectos\\estado-cuenta-web\\estadocuentaapi\\EstadoCuentaApi.csproj": {
+    "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\EstadoCuentaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mis-proyectos\\estado-cuenta-web\\estadocuentaapi\\EstadoCuentaApi.csproj",
+        "projectUniqueName": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\EstadoCuentaApi.csproj",
         "projectName": "EstadoCuentaApi",
-        "projectPath": "D:\\mis-proyectos\\estado-cuenta-web\\estadocuentaapi\\EstadoCuentaApi.csproj",
+        "projectPath": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\EstadoCuentaApi.csproj",
         "packagesPath": "C:\\Users\\JGamarra\\.nuget\\packages\\",
-        "outputPath": "D:\\mis-proyectos\\estado-cuenta-web\\estadocuentaapi\\obj\\",
+        "outputPath": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JGamarra\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstadoCuentaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef52d0b68c6103756115b985269b4185168fc93")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstadoCuentaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstadoCuentaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
