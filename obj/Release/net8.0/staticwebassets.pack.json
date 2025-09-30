@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\css\\main.85a1464f.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.85a1464f.css"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\css\\main.85a1464f.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.85a1464f.css.map"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\239.308e2610.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\239.308e2610.chunk.js"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\239.308e2610.chunk.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\239.308e2610.chunk.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\239.308e2610.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\239.308e2610.chunk.js.map"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\453.b8f865e3.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\453.b8f865e3.chunk.js"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\453.b8f865e3.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\453.b8f865e3.chunk.js.map"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\455.1329934c.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\455.1329934c.chunk.js"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\455.1329934c.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\455.1329934c.chunk.js.map"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\977.831092f1.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\977.831092f1.chunk.js"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\977.831092f1.chunk.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\977.831092f1.chunk.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\977.831092f1.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\977.831092f1.chunk.js.map"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\main.d286712f.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.d286712f.js"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\main.d286712f.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.d286712f.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\mis-proyectos\\estado-cuenta-web\\EstadoCuentaApi\\wwwroot\\static\\js\\main.d286712f.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.d286712f.js.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EstadoCuentaApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EstadoCuentaApi.props",
+      "PackagePath": "build\\EstadoCuentaApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EstadoCuentaApi.props",
+      "PackagePath": "buildMultiTargeting\\EstadoCuentaApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EstadoCuentaApi.props",
+      "PackagePath": "buildTransitive\\EstadoCuentaApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
